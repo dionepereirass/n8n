@@ -8,7 +8,7 @@ services:
     autoDeploy: true
     envVars:
       - key: N8N_BASIC_AUTH_ACTIVE
-        value: true
+        value: 20
       - key: N8N_BASIC_AUTH_USER
         value: admin
       - key: N8N_BASIC_AUTH_PASSWORD
